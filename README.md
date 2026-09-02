@@ -56,3 +56,7 @@ The circuit is simulated in Proteus using an AT89C51, sensor input, L293D motor 
 ## Project Status
 
 Completed
+
+## Circuit Diagram
+
+![LockSense-8051 Proteus Circuit](LockSense-8051-Circuit.png)
